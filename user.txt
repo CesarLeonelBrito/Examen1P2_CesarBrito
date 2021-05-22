@@ -1,0 +1,2 @@
+user: admin
+contra: 1234
